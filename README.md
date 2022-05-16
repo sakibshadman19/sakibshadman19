@@ -1,8 +1,8 @@
-<!-- <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Shadman</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Shadman</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibshadman19&label=Profile%20views&color=129e00&style=plastic" alt="Shadman Sakib" /> </p>
 
-<!-- - 👨‍💻 You can also check out my portfolio at [https://shadman-website-sakib.netlify.app/](https://shadman-website-sakib.netlify.app/) -->
+- 👨‍💻 You can also check out my portfolio at [https://shadman-website-sakib.netlify.app/](https://shadman-website-sakib.netlify.app/) 
 
 - 📫 How to reach me **sakibshadman19@gmail.com**
 
@@ -39,4 +39,4 @@
 ![shadman's github stats](https://github-readme-stats.vercel.app/api?username=sakibshadman19&count_private=true&theme=tokyonight&hide=contribs,prs)
 
  <p><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibshadman19&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sakibshadman19" /></p>
- -->
+ 
