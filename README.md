@@ -2,21 +2,21 @@
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibshadman19&label=Profile%20views&color=129e00&style=plastic" alt="Shadman Sakib" /> </p>
 
-- 👨‍💻 You can also check out my portfolio at [https://shadman-website-sakib.netlify.app/](https://shadman-website-sakib.netlify.app/)
+- 👨‍💻 You can also check out my portfolio at [https://shadman-sakib.netlify.app/](https://shadman-sakib.netlify.app/)
 
 - 📫 How to reach me **sakibshadman19@gmail.com**
 
-- 😄 Here is my  [Resume/CV](https://drive.google.com/file/d/1wskg2uP4_cOUQ6Efsu7fMqHuvXb490Tm/view)
+- 😄 Here is my  [Resume/CV](https://drive.google.com/file/d/1JaNihiazt4CEj-UwkUaETDGwGjzHBR1H/view)
 
 
-- ⚡ Fun fact **I think I am funny XD**
+
 
 <h3 align="left">Connect with me :</h3>
 
 
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadman-sakib-95462923a/)   [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sakibshadman19@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/shadman.sakibtanmoy/)](https://www.facebook.com/shadman.sakibtanmoy/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadmansakib1/)   [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sakibshadman19@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/shadman.sakibtanmoy/)](https://www.facebook.com/shadman.sakibtanmoy/)
 
  
 
