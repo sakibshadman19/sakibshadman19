@@ -2,11 +2,11 @@
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibshadman19&label=Profile%20views&color=129e00&style=plastic" alt="Shadman Sakib" /> </p>
 
-- 👨‍💻 You can also check out my portfolio at [https://shadman-sakib.netlify.app/](https://shadman-sakib.netlify.app/)
+<!-- - 👨‍💻 You can also check out my portfolio at [https://shadman-sakib.netlify.app/](https://shadman-sakib.netlify.app/) -->
 
 - 📫 How to reach me **sakibshadman19@gmail.com**
 
-- 😄 Here is my  [Resume/CV](https://drive.google.com/file/d/1JaNihiazt4CEj-UwkUaETDGwGjzHBR1H/view)
+<!-- - 😄 Here is my  [Resume/CV](https://drive.google.com/file/d/1JaNihiazt4CEj-UwkUaETDGwGjzHBR1H/view) -->
 
 
 
